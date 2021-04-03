@@ -60240,7 +60240,7 @@ ows re-sequencing of complete genomes of any given organism with high resolution
 
     <!-- http://edamontology.org/topic_3945 -->
 
-    <owl:Class rdf:about="http://edamontology.org/topic_3945">
+   <!-- <owl:Class rdf:about="http://edamontology.org/topic_3945">
         <rdfs:subClassOf rdf:resource="http://edamontology.org/topic_0625"/>
         <rdfs:subClassOf rdf:resource="http://edamontology.org/topic_3299"/>
         <rdfs:subClassOf rdf:resource="http://edamontology.org/topic_3391"/>
@@ -60251,7 +60251,7 @@ ows re-sequencing of complete genomes of any given organism with high resolution
         <oboInOwl:inSubset rdf:resource="http://purl.obolibrary.org/obo/edam#topics"/>
         <rdfs:label>Molecular evolution</rdfs:label>
         <rdfs:seeAlso rdf:resource="https://en.wikipedia.org/wiki/Molecular_evolution"/>
-    </owl:Class>
+    </owl:Class> -->
     
 
 
